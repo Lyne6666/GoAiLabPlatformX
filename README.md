@@ -1,0 +1,2 @@
+# GoAiLabPlatformX
+Advanced GoAiLabPlatformX project
